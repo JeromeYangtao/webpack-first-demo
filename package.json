@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/JeromeYangtao/webpack-first-demo.git"
+        "url": "git+https://github.com/JeromeYangtao/hello-Vue.git"
     },
     "keywords": [
         "webpack"
@@ -19,9 +19,9 @@
     "author": "yang tao",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/JeromeYangtao/webpack-first-demo/issues"
+        "url": "https://github.com/JeromeYangtao/hello-Vue/issues"
     },
-    "homepage": "https://github.com/JeromeYangtao/webpack-first-demo#readme",
+    "homepage": "https://github.com/JeromeYangtao/hello-Vue#readme",
     "devDependencies": {
         "webpack": "^1.14.0"
     }
